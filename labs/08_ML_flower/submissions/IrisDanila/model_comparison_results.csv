@@ -1,0 +1,4 @@
+Model,Number of Features,Accuracy
+"Initial (100 trees, all features)",10,0.0
+"Optimized (GridSearchCV, all features)",10,0.0
+Top 10 Features (Optimized params),10,0.0
