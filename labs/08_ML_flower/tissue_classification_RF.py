@@ -1,4 +1,10 @@
-#Use a GTEx Gene Expression Data Subset to implement and evaluate a Random Forest model to classify tissue types based on gene expression profiles
+  feat/lab02-alignment-IrisDanila
+  feat/lab02-assignment-IrisDanila
+  feat/lab03-ngs-IrisDanila
+  feat/lab04-phylogenetics-IrisDanila
+  feat/lab05-clustering-IrisDanila
+  feat/lab06-networks-IrisDanila
+  feat/roster-IrisDanila#Use a GTEx Gene Expression Data Subset to implement and evaluate a Random Forest model to classify tissue types based on gene expression profiles
 #The dataset should contain at least 100 genes randomly selected from GTEx data for tissue types for three distinct classes: Liver, Kidney and Brain
 # Import necessary libraries
 import pandas as pd
